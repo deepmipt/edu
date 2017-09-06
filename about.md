@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Our lab was created at the end on 2015, now we are working on big [iPavlov project](http://ipavlov.ai). 
 
-### More Information
+We are situated at Dolgoprudny, Moscow Region, in the campus of Moscow Institute of Physics and Technology.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact us
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[info@ipavlov.ai](mailto:info@ipavlov.ai)
