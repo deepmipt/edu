@@ -7,4 +7,4 @@ title: Проекты учатников хакатона
 
 Проекты можно делать командно, величина команды - до 3 человек.
 
-Ссылка на форму: (https://goo.gl/RpiZiH)[https://goo.gl/RpiZiH]
+Ссылка на форму: [https://goo.gl/RpiZiH](https://goo.gl/RpiZiH).
