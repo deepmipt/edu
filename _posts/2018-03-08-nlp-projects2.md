@@ -23,14 +23,21 @@ Cons:
 
 References:
 [https://arxiv.org/abs/1603.01354](https://arxiv.org/abs/1603.01354)
-
+</br>
 Social media papers:
+
 Snap:
+
 [https://arxiv.org/abs/1802.07862](https://arxiv.org/abs/1802.07862)
+
 Twitter:
+
 [https://arxiv.org/abs/1710.11027](https://arxiv.org/abs/1710.11027)
+
 [https://www.aclweb.org/anthology/W/W17/W17-4419.pdf](https://www.aclweb.org/anthology/W/W17/W17-4419.pdf)
+
 [https://cocoxu.github.io/publications/wnut2015_overview.pdf](https://cocoxu.github.io/publications/wnut2015_overview.pdf)
+
 The ritter dataset: [https://homes.cs.washington.edu/~mausam/papers/emnlp11.pdf](https://homes.cs.washington.edu/~mausam/papers/emnlp11.pdf)
 
 
