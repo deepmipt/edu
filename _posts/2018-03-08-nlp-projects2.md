@@ -24,7 +24,7 @@ Cons:
 
 References:
 [https://arxiv.org/abs/1603.01354](https://arxiv.org/abs/1603.01354)
-</br>
+<br/>
 Social media papers:
 
 Snap:
